@@ -1,0 +1,13 @@
+## Interface: 70000
+## Title: Lib: FeralBleeds-1.0
+## Notes: Provides baseline logic for tracking feral bleed strength snapshots
+## Author: TurtleGuy
+## Version: 1.0
+
+
+#@no-lib-strip@
+libs\LibStub\LibStub.lua
+libs\LibAuraTracker-1.0\LibAuraTracker-1.0.lua
+#@end-no-lib-strip@
+
+LibFeralBleeds-1.0.lua
